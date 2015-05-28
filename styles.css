@@ -1,0 +1,16 @@
+body {
+  background-color: green;
+  color: white;
+  font-family: sans-serif;
+  margin-left: 20px;
+  margin-top: 20px;  
+}
+
+#bio {
+  width: 600px;
+}
+
+a:visited {
+  color: white;
+  font-weight: bold;
+}
